@@ -4,9 +4,9 @@ from sympy import symbols, integrate, csc, log, sqrt, oo
 from math import pi
 
 
-print("--------------------------Question 1!--------------------------\n")
-x = symbols('x')
-y = (csc(sqrt(x) + (pi/2)))**2
+print("--------------------------Question 1!---------SOra ITO-----------------\n")
+x = symbols('y')
+y = (csc(sqrt(x) + (pi/3)))**2
 print('f(x) = {}'.format(y))
 y_diff = y.diff(x)
 print("f'(x) = {}".format(y_diff))
@@ -68,3 +68,7 @@ try:
     
 except:
     print("Publication Failed")
+
+
+    #Sora Ito 1234567789
+        #Sora Ito 1234567789sajdiosajdisajdjojiodasjiodosjdaio
